@@ -1,3 +1,9 @@
+# Проект "Холодильник":
+#     - хранит перечень продуктов, их количество и срок годности;
+#     - позволяет добавлять новые продукты в перечень продуктов;
+#     - позволяет получать информацию о содержимом холодильника.
+
+
 from datetime import datetime, timedelta
 from decimal import Decimal
 from typing import Optional, Dict, List
